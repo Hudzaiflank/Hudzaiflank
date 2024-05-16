@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hudzaifah</h1>
-<h3 align="center">Hello! I'm Afif, a passionate Fullstack and Frontend Developer specializing in creating dynamic, user-friendly web applications. With expertise in both frontend and backend technologies, I ensure seamless integration and an exceptional user experience.</h3>
+<h3 align="justify">Hello! I'm Afif, a passionate Fullstack and Frontend Developer specializing in creating dynamic, user-friendly web applications. With expertise in both frontend and backend technologies, I ensure seamless integration and an exceptional user experience.</h3>
 
 
 
